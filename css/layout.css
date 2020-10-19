@@ -21,4 +21,5 @@ nav li {
  display: inline;
  text-align:
 center;
- f
+ flex: 1;
+}
